@@ -1,3 +1,17 @@
 body {
 	background: #C4B7AD;
 }
+
+.navbar-header img{
+	 height: 40px;
+	 width: 40px;
+	 vertical-align: center;
+}
+
+.navbar-brand {
+	padding: 5px 15px;
+}
+
+.head {
+	background: "assets/"
+}
